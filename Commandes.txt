@@ -1,0 +1,26 @@
+!discord;Un discord pour échanger avec la communauté : https://discord.gg/ChQQrnk
+!guide;Un guide pour tous les AC : https://www.animalcrossing-online.com
+!baille;*Baille* Non je n'ai pas baillé...
+!don;Pour faire un don (pas obligatoire bien sûr) : https://streamlabs.com/scratch_lol/tip
+!commandes;Les commandes principales du stream : !site - !youtube - !règles - !discord - !don
+!ami;Mon code ami switch :  SW-2366-9419-7982
+!tv2;La chaîne secondaire : https://www.twitch.tv/scratch_tv2
+!reve;Mon code Onirique : DA-3552-9881-9159
+!mk;Le tournoi de Scratch !!! Tous les samedis à 18H sur Mario Kart 8 Deluxe. Soyez présents !! Code du tournoi : 4892-5028-9195
+!habitants;Sur mon île j'ai : Régis Monica Pierrot Blanche Coco Bibi Abraham Didi Chef Quenotte !!!
+!andré;Le NÔTRE
+!boitier;Mon boitier d'acquisition : https://www.amazon.fr/gp/product/B07MBSXMH7/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1
+!regles;Pas de spam - Pas de spoils - Pas de pubs - Pas d'insultes/harcèlement/comportements haineux - Pas de message illisibles (relisez vous svp) -- Sous peine de suppression de message, de bannissement temporaire ou de bannissement définitif !
+!perduaussi;{pseudo} est perdu(e) !
+!perdu;Désolé Scratch est perdu...(encore)
+!streamlabs;Il est mort ! Mais je suis bien supérieur à lui mouahahaha !!! :D
+!tousse;Oui je tousse *tousse* C'est à cause de l'air qui est trop sec !
+!pub;Les streamers que je vous recommande : https://www.twitch.tv/trisskeltv https://www.twitch.tv/rousse_errante  https://www.twitch.tv/pingouiing https://www.twitch.tv/k_chou https://www.twitch.tv/mlle_mimi https://www.twitch.tv/loufocah
+!marathon;EL FAMOSO PROGRAMME|13h - 14h30 Rocket League (solo ET avec vous)|14h30 - 16h 51 WorldWide|16h - 17h30 Gartic Phone : AVEC VOUS EN VOCAL|17h30 - 19h30 Mario Kart 8 Deluxe tournoi de Scroutch à 18h|19h30 - 21h Animal Crossing NH : CACHE-CACHE sur mon île|21h - 22h30 Fall Guys|22h30 - 0h Marbles on Stream (le vainqueur gagne un abo !!)
+!site;Le site internet de Scratch : https://scratch.go.yo.fr/
+!youtube;La chaîne YouTube : https://www.youtube.com/channel/UCl7jQsAu_adQOrEbjXo_z6w
+!annonces;Le site !site - La chaîne youtube !youtube - Et les nouveaux visuels
+!bot;Je suis un bot créé par Scratch. Je remplacerai bientôt Streamlabs mouahahahaha :D
+!chat;Miaou ! UwU
+Wanna become famous;/ban {pseudo}
+!steam;ScratchBzH ou 177559121
